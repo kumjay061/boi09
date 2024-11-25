@@ -1,15 +1,12 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC90GnQYUR1ysJYT7bX0r1bDIllxMo83w4",
-  authDomain: "getupbaba1.firebaseapp.com",
-  databaseURL: "https://getupbaba1-default-rtdb.firebaseio.com",
-  projectId: "getupbaba1",
-  storageBucket: "getupbaba1.appspot.com",
-  messagingSenderId: "465709312280",
-    appId: "1:465709312280:web:8696dbe25d315724e6566d"
- 
-  };
-
+  apiKey: "AIzaSyC3NzLamztOIAbmS7rfCrkH7GrE5uRsEEM",
+  authDomain: "jixevvv.firebaseapp.com",
+  databaseURL: "https://jixevvv-default-rtdb.firebaseio.com",
+  projectId: "jixevvv",
+  storageBucket: "jixevvv.firebasestorage.app",
+  messagingSenderId: "644473153395",
+  appId: "1:644473153395:web:aef65cde57e471d678c706"
 
 
 
